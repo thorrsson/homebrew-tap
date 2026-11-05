@@ -1,6 +1,6 @@
 cask "unifi-desktop" do
-  version "0.1.5"
-  sha256 "4e9022a794ce4f1493987ae4f7cdf351ee445e94422d4979afb0710aa28b10e6"
+  version "0.1.6"
+  sha256 "16dad99686a4c9549dcd01462c59c7ddea7dc1a35a7546bd3f00828f7fe1e003"
 
   url "https://github.com/thorrsson/osx-unifi/releases/download/v#{version}/UniFiDesktop-#{version}.dmg"
   name "UniFi Desktop"
